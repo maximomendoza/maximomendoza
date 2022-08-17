@@ -1,0 +1,1 @@
+Hi, my name is Máximo, I'm currently learning HTML and CSS. My interest is to learn all the basics of front end developing and then move to back end until I'm able tu fully work and be considered a devoloper.
